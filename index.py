@@ -1,4 +1,7 @@
 #Author Jan "zemler" Zemla
+
+#Edit file hosts.txt with your hosts :)
+
 import os
 
 def main():
